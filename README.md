@@ -8,6 +8,17 @@ A social news agency. Think Facebook for facts.
 
 ### Fact And Enrichment
 
+#### Fact
+A fact is information that can be proofed. It differs from commentary, opinion statement or assertion.
+
+It answers the questions:
+
+  1. What?
+  1. When?
+  1. Where?
+  1. Who? 
+
+
 
 ### Quora Quororum
 
