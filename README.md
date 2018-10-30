@@ -2,9 +2,12 @@
 A social news agency. Think Facebook for facts.
 
 ## General Concept
+Facts (see below) are created by at most three people at a time.
 
 ### Rationale
+In the previous times (late 1990ies and ongoing) we noticed a tendency in the media to mix fact based information with opinions, marketing collateral or general assumptions.
 
+Our ideal, grounded in Western European and North American democratic values is that the basic task of media as democratic institution is to inform citizens on facts and make the differentiation from any form of assertions absolutely clear. This allows citizens to develop their own political opinions based on the available facts.
 
 ### Fact And Enrichment
 
