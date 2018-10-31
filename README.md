@@ -67,6 +67,12 @@ There are the following importance scopes:
 
 ## Base Use Cases
 
+### Create Redaction
+
+### Register Redaction Member
+
+### Submit Fact
+
 
 ## Technology
 
