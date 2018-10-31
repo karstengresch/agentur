@@ -46,6 +46,19 @@ A fact, submitted to agentur's fact space gets announced to other redaction team
 
 There are the following importance scopes:
 
+   1. Global
+   1. Continental
+   1. Subcontinental
+   1. National
+   1. Subnational (State)
+   1. Regional
+   1. City Area
+   1. City
+   1. Quarter
+   1. Neighborhood
+   
+    
+
 
 
 ### Commercial Use
