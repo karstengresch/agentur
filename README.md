@@ -52,15 +52,12 @@ There are the following importance scopes:
    1. National
    1. Subnational (State)
    1. Regional
-   1. City Area
+   1. City Area/District
    1. City
    1. Quarter
+   1. Quarter Area
    1. Neighborhood
    
-    
-
-
-
 ### Commercial Use
 
 
@@ -71,10 +68,16 @@ There are the following importance scopes:
 
 ### Register Redaction Member
 
+### Register Publisher
+
+### Register Non-Editing User
+
 ### Submit Fact
 
+### (Up-/Down-)Vote Fact
+
+### Inform Publisher
 
 ## Technology
-
 
 ## Roadmap
