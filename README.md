@@ -59,7 +59,9 @@ There are the following importance scopes:
    1. Neighborhood
    
 ### Commercial Use
+Basically, any facts created, redacted and published to agentur's facts space are available free to the public.
 
+However, commercial use, such as in newspapers, TV, radio broadcast or on the internet needs to be paid.
 
 
 ## Base Use Cases
