@@ -64,7 +64,7 @@ There are the following importance scopes:
 Basically, any facts created, redacted and published to agentur's facts space are available free to the public.
 
 However, commercial use, such as in newspapers, TV, radio broadcast or on the internet needs to be paid.
-The fees shall be much below compared to classical news agencies and be distributed to the fact creators and redactions and the agentur team creating and operating the software (if not decentralized - TBD).
+The fees shall be much below compared to classical news agencies and be distributed to the fact creators and redactions and the agentur team creating and operating the software (if not decentralized - TBD - then only the software maintainers and eventually marketing.).
 
 
 ## Base Use Cases
