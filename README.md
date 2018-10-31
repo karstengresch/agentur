@@ -33,7 +33,7 @@ It answers the questions:
 The information given has to be as tense as possible. Attributes should be avoided as long as possible and do not carry opinion or opinionated classification and should be converted to precise facts (e.g. measures) wherever available.
 
 *Example*
-
+TO DO
 
 
 ### Quora Quororum: Redaction Team
@@ -42,6 +42,10 @@ Though facts are created normally by an individual, they need to be redacted bef
 The core redaction team is built by exactly three individuals (more to this later).
 
 ### Voting (Up And Down)
+A fact, submitted to agentur's fact space gets announced to other redaction teams. These teams can upvote or downvote submitted facts by its importance scope.
+
+There are the following importance scopes:
+
 
 
 ### Commercial Use
