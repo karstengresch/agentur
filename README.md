@@ -36,13 +36,16 @@ The information given has to be as tense as possible. Attributes should be avoid
 
 
 
-### Quora Quororum
+### Quora Quororum: Redaction Team
+Though facts are created normally by an individual, they need to be redacted before published to agentur's fact space.
 
+The core redaction team is built by exactly three individuals (more to this later).
 
 ### Voting (Up And Down)
 
 
 ### Commercial Use
+
 
 
 ## Base Use Cases
