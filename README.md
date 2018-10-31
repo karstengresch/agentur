@@ -35,6 +35,8 @@ The information given has to be as tense as possible. Attributes should be avoid
 *Example*
 TO DO
 
+A fact that uses a citation from another news source can only be a fact prooving the existence of the source, not its content.
+
 
 ### Quora Quororum: Redaction Team
 Though facts are created normally by an individual, they need to be redacted before published to agentur's fact space.
