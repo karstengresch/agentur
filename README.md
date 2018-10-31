@@ -30,7 +30,11 @@ It answers the questions:
 
 *Actual* means that the "When?" question for the initial fact version should point to a backward timeframe of around 24 hours within the timezone of the fact creator(s).
 
-The information given has to be as tense as possible. Attributes should be avoided as long as possible and do not carry opinion or opinionated classification.
+The information given has to be as tense as possible. Attributes should be avoided as long as possible and do not carry opinion or opinionated classification and should be converted to precise facts (e.g. measures) wherever available.
+
+*Example*
+
+
 
 ### Quora Quororum
 
