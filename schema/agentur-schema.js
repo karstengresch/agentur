@@ -1,12 +1,14 @@
-schema {
-    query: Query
-    mutation: Mutation
-}
+export const typeDefs = gql`
+    type Fact {
+        id: ID
+        
+    }
+    
+    type ContinuousInformation {
+        
+    }
 
-type Query {
-
-}
-
-type Mutation {
-
-}
+    type Query {
+        users: [User]
+    }
+`
