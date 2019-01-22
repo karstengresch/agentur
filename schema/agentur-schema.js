@@ -35,6 +35,19 @@ export const typeDefs = gql`
     
     # Agentur: Platform Types
     
+    type User {
+        id: ID
+    }
+    
+    type userCell {
+        id: ID
+        users: [User]
+    }
+    
+    type Vote {
+        id: ID
+    }
+    
     
     # Queries
 
