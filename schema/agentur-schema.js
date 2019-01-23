@@ -39,9 +39,16 @@ export const typeDefs = gql`
         id: ID
     }
     
-    type userCell {
+    type UserCell {
         id: ID
+        # TODO Limits
         users: [User]
+    }
+    
+    # TODO Recursive data structures w/ GraphQL?
+    type UserCells {
+        id: ID
+        userCells: [UserCells]
     }
     
     type Vote {
