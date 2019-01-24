@@ -3,56 +3,71 @@ export const typeDefs = gql`
     # Agentur: Fact Types
  
     type Fact {
-        id: ID
+        id: ID!
+        whatDescription: String!
+        whatDescriptionSummary: String!
+        whenDate: Date
+        whenTime: Time
+        who: [Person]
+    }
+    
+    type Proof {
+       id: ID! 
         
     }
     
     type ContinuousInformation {
-        id: ID
+        id: ID!
         # 
         date: DateTime
+        fact: Fact!
     }
     
+    
+    
     type MediaData {
-        id: ID
+        id: ID!
     }
     
     type Person {
-        id: ID
+        id: ID!
     }
     
     type GeoData {
-        id: ID
+        id: ID!
     }
     
     type Address {
-        id: ID
+        id: ID!
     }
     
     type Citation {
-        id: ID
+        id: ID!
     }
     
     # Agentur: Platform Types
     
     type User {
-        id: ID
+        id: ID!
     }
     
     type UserCell {
-        id: ID
+        id: ID!
         # TODO Limits
+        ownName: String
+        shortName: String
+        avatarImage: String
         users: [User]
     }
     
     # TODO Recursive data structures w/ GraphQL?
     type UserCells {
-        id: ID
+        id: ID!
         userCells: [UserCells]
     }
     
     type Vote {
-        id: ID
+        id: ID!
     }
     
     
