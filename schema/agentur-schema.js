@@ -9,8 +9,8 @@ export const typeDefs = gql`
     
     type ContinuousInformation {
         id: ID
-        # check date type
-        date: Date
+        # 
+        date: DateTime
     }
     
     type MediaData {
@@ -30,7 +30,7 @@ export const typeDefs = gql`
     }
     
     type Citation {
-        
+        id: ID
     }
     
     # Agentur: Platform Types
