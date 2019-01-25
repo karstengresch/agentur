@@ -16,6 +16,20 @@ export const typeDefs = gql`
         
     }
     
+    enum ProofType {
+        WEBURL
+        WEBARCHIVE
+        AUDIORECORDING
+        TRANSCRIPTION
+        PICTURE
+        VIDEO
+        PDF
+        TEXTFILE
+        EMAIL
+    }
+        
+    
+    
     type ContinuousInformation {
         id: ID!
         # 
