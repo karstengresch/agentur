@@ -1,7 +1,6 @@
 export const typeDefs = gql`
  
     # Agentur: Fact Types
- 
     type Fact {
         id: ID!
         whatDescription: String!
@@ -26,9 +25,9 @@ export const typeDefs = gql`
         PDF
         TEXTFILE
         EMAIL
+        WITNESS
+        OFFICIALREPORT
     }
-        
-    
     
     type ContinuousInformation {
         id: ID!
@@ -36,8 +35,6 @@ export const typeDefs = gql`
         date: DateTime
         fact: Fact!
     }
-    
-    
     
     type MediaData {
         id: ID!
